@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "dintest",
+    "slug": "dintest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "react-native-health"
+    ],
+    "splash": {
+      "backgroundColor": "#FEF9B0"
+    }
+  },
+  "name": "dintest"
+}
